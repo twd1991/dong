@@ -1,4 +1,4 @@
-master分支上的
+twd.txt 成功的从twd12 合并到 master 分支了。
 tqqqq:wq
 这个文件就是创建完了来看看，是不是生效而而已 。
 qqqqqqqqqqqqqqqqq
